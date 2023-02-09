@@ -1,4 +1,11 @@
 # Task - 2 Experimentation and uplift testing
+Extend your analysis from Task 1 to help you identify benchmark stores that allow you to test the impact of the trial store layouts on customer sales.
+
+# Skills ( Tools ) you will Use and learn
+1. Data Analysis
+2. Commercial Thinking 
+3. Statistical Testing 
+
 ## Here is the background information on your task
 We suggest you complete Task 1 before proceeding with this task. 
 
