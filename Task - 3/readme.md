@@ -1,6 +1,11 @@
 # Task - 3 Analytics and commercial application
 Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
 
+# Skills ( Tools ) 
+1. Commercial Thinking
+2. Presentation Skills
+3. Commmunication skills 
+
 ## Here is the background information on your task
 We suggest you complete Tasks 1 and 2 before proceeding with this task. 
 
