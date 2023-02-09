@@ -1,4 +1,11 @@
 # Task - 1 Data preparation and customer analytics
+Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
+
+# Skills you will use and learn 
+1. Data Validation 
+2. Data Visualisation 
+3. Data Wrangling
+4. Programming in Python or R Language 
 
 ## Here is the background information on your task
 
